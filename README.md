@@ -1,6 +1,6 @@
 # 📝 Fullstack Blog REST API mit React & Node.js
 
-![Preview](https://github.com/dein-benutzername/dein-repo/blob/main/preview.png)
+![Preview](https://github.com/ramazanozguven/12_Fullstack-Blog-REST-API-mit-React-Node.js/blob/fc0b20f5cbd184e3e72ce15fa6890ec3e7613c29/Screenschot%20des%20Projekt.png)
 
 ## 📚 Projektübersicht
 
